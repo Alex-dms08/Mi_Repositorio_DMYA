@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mis Datos</title>
+</head>
+<body>
+  <h1>Información Escolar</h1>
+  <p><strong>Nombre completo:</strong> De la Cruz Mederos Yael Alejandro</p>
+  <p><strong>Nombre de la TAE:</strong> Programación web 2</p>
+  <p><strong>Nombre de la preparatoria:</strong> Preparatoria San José del Valle UDG</p>
+</body>
+</html>
